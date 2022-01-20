@@ -1,4 +1,4 @@
-package Inlämningsuppgift1;
+package Inlämningsupgift1;
 
 import org.junit.jupiter.api.Test;
 

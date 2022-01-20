@@ -1,4 +1,4 @@
-package Inlämningsuppgift1;
+package Inlämningsupgift1;
 
 import java.util.List;
 import java.util.Map;
