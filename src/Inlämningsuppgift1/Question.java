@@ -1,4 +1,4 @@
-package Inlämningsupgift1;
+package Inlämningsuppgift1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -17,6 +17,7 @@ public class Question {
         category = cat;
         correctAnswer = correct;
     }
+
 
     public String getQuestionString(){
         return question;

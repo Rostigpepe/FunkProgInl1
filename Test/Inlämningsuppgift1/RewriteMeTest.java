@@ -1,14 +1,11 @@
 package Inlämningsuppgift1;
 
-import Inlämningsupgift1.Category;
-import Inlämningsupgift1.Database;
-import Inlämningsupgift1.Question;
-import Inlämningsupgift1.RewriteMe;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.List;
 import java.util.Map;
+
+import static org.junit.jupiter.api.Assertions.*;
 
 
 public class RewriteMeTest {
